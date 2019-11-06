@@ -1,2 +1,0 @@
-# TestReactValuePass
-Created with CodeSandbox
